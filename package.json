@@ -1,0 +1,22 @@
+{
+  "name": "chekpointexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.1",
+    "express": "^4.17.1",
+    "node-sass": "^6.0.0",
+    "sass": "^1.35.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
